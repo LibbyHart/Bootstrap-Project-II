@@ -22,6 +22,9 @@ h5 {
 .container {
   max-width: 800px;
 }
+.btn {
+  background-color: #B0C4DE;
+}
 .footer {
   color: black;
   background: blanchedalmond;
